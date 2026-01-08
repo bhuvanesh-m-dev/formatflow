@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=FormatFlow
+Comment=Organize files efficiently
+Exec=formatflow
+Icon=formatflow
+Terminal=false
+Type=Application
+Categories=Utility;

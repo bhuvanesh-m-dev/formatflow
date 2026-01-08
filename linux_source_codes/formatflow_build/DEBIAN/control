@@ -1,0 +1,14 @@
+Package: formatflow
+Version: 0.1
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-tk
+Maintainer: Bhuvanesh <bhuvaneshm.developer@gmail.com>
+Homepage: https://bhuvanesh-m-dev.github.io/formatflow
+Description: FormatFlow - File Organizer
+ Organize files by category, type, and date.
+ .
+ Portfolio: https://bhuvanesh-m-dev.github.io
+ Source Code: https://github.com/bhuvanesh-m-dev/formatflow
+ License: CC BY-NC 4.0
